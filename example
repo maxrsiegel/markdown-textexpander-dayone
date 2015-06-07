@@ -1,0 +1,20 @@
+# Daily Progress %Y-%m-%d
+
+## Morning
+
+* Sleep Quality (out of 5): **%filltext:name=42%**
+* *Tell me how you really feel.* **%fillarea:name=Let it all out…:width=30:height=4%**
+* Went to bed around **%filltext:name=Bedtime%**
+* Fell asleep around **%filltext:name=Sleeptime%**
+* Woke up around **%filltext:name=Waketime% a.m.**
+* Took MEDICINE XX (500 mg) at **%filltext:name=TIME% a.m.**
+
+- - - 
+
+## Evening
+* Day's-End Feels (out of 5): 
+* *What kind of shit did I accomplish?*
+    *
+* Took MEDICINE XY (200 mg) at
+
+#Medical
